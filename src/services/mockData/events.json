@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "title": "CS 401 Project Proposal Due",
+    "type": "assignment",
+    "date": "2024-02-15",
+    "time": "11:59 PM",
+    "location": "Online Submission",
+    "description": "Submit your software engineering project proposal"
+  },
+  {
+    "Id": 2,
+    "title": "MATH 301 Midterm Exam",
+    "type": "exam",
+    "date": "2024-02-18",
+    "time": "2:00 PM - 4:00 PM",
+    "location": "Mathematics Building 101",
+    "description": "Midterm examination covering chapters 1-6"
+  },
+  {
+    "Id": 3,
+    "title": "ENG 201 Essay Submission",
+    "type": "assignment",
+    "date": "2024-02-20",
+    "time": "11:59 PM",
+    "location": "Online Portal",
+    "description": "Technical writing essay on emerging technologies"
+  },
+  {
+    "Id": 4,
+    "title": "Database Systems Lecture",
+    "type": "lecture",
+    "date": "2024-02-22",
+    "time": "10:00 AM - 11:30 AM",
+    "location": "Computer Science 110",
+    "description": "Advanced SQL queries and optimization"
+  },
+  {
+    "Id": 5,
+    "title": "Spring Break",
+    "type": "holiday",
+    "date": "2024-03-11",
+    "time": "All Day",
+    "location": "Campus Wide",
+    "description": "Spring break - no classes"
+  },
+  {
+    "Id": 6,
+    "title": "Physics Lab Practical",
+    "type": "exam",
+    "date": "2024-02-25",
+    "time": "1:00 PM - 3:00 PM",
+    "location": "Physics Lab 201",
+    "description": "Hands-on laboratory examination"
+  },
+  {
+    "Id": 7,
+    "title": "Career Fair",
+    "type": "event",
+    "date": "2024-03-05",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Student Union Ballroom",
+    "description": "Annual career fair with 50+ companies"
+  }
+]

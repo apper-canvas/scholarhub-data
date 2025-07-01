@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "id": "STU001",
+    "name": "John Smith",
+    "email": "john.smith@university.edu",
+    "major": "Computer Science",
+    "year": 3,
+    "gpa": 3.85,
+    "credits": 89,
+    "phone": "(555) 123-4567",
+    "emergencyContactName": "Mary Smith",
+    "emergencyContactPhone": "(555) 987-6543",
+    "emergencyContactRelation": "Mother",
+    "address": "123 University Ave, College Town, ST 12345",
+    "enrollmentDate": "2022-08-15",
+    "status": "active"
+  },
+  {
+    "Id": 2,
+    "id": "STU002",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@university.edu",
+    "major": "Business Administration",
+    "year": 2,
+    "gpa": 3.92,
+    "credits": 56,
+    "phone": "(555) 234-5678",
+    "emergencyContactName": "Robert Johnson",
+    "emergencyContactPhone": "(555) 876-5432",
+    "emergencyContactRelation": "Father",
+    "address": "456 Campus Dr, College Town, ST 12345",
+    "enrollmentDate": "2023-08-20",
+    "status": "active"
+  }
+]

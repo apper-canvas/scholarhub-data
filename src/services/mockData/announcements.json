@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "title": "Registration for Summer Courses Opens",
+    "content": "Registration for summer semester courses will begin on March 1st. Students are advised to meet with their academic advisors before registering. Priority registration starts for seniors, followed by juniors, sophomores, and freshmen.",
+    "priority": "high",
+    "date": "2024-02-10T09:00:00Z",
+    "read": false,
+    "author": "Academic Affairs",
+    "category": "academic"
+  },
+  {
+    "Id": 2,
+    "title": "Library Extended Hours During Finals",
+    "content": "The university library will extend its operating hours during finals week. The library will be open 24/7 from December 11-15. Additional study spaces and group rooms will be available. Quiet zones will be strictly enforced.",
+    "priority": "medium",
+    "date": "2024-02-08T14:30:00Z",
+    "read": false,
+    "author": "Library Services",
+    "category": "facilities"
+  },
+  {
+    "Id": 3,
+    "title": "Campus Safety Alert",
+    "content": "Due to recent weather conditions, students are advised to use caution when walking on campus. Ice and snow removal crews are working around the clock. Emergency phones are located throughout campus. Report any hazardous conditions to campus security immediately.",
+    "priority": "high",
+    "date": "2024-02-07T07:45:00Z",
+    "read": true,
+    "author": "Campus Security",
+    "category": "safety"
+  },
+  {
+    "Id": 4,
+    "title": "Student Health Center Updates",
+    "content": "The Student Health Center has updated its COVID-19 testing protocols. Testing is now available by appointment only. Flu shots are still available for all students. Mental health counseling services have expanded with evening hours now available.",
+    "priority": "medium",
+    "date": "2024-02-05T11:15:00Z",
+    "read": true,
+    "author": "Health Services",
+    "category": "health"
+  },
+  {
+    "Id": 5,
+    "title": "Scholarship Deadline Reminder",
+    "content": "Reminder that applications for merit-based scholarships are due February 28th. This includes the Presidential Scholarship, Dean's Award, and departmental scholarships. All application materials must be submitted through the student portal. Contact Financial Aid with questions.",
+    "priority": "high",
+    "date": "2024-02-03T16:20:00Z",
+    "read": false,
+    "author": "Financial Aid",
+    "category": "financial"
+  },
+  {
+    "Id": 6,
+    "title": "Dining Hall Menu Changes",
+    "content": "The main dining hall will be introducing new healthy menu options starting next week. Vegetarian and vegan choices will be expanded. A new salad bar station will be available during all meal periods. Student feedback welcome at the comment stations.",
+    "priority": "low",
+    "date": "2024-02-01T10:00:00Z",
+    "read": true,
+    "author": "Dining Services",
+    "category": "dining"
+  },
+  {
+    "Id": 7,
+    "title": "Technology Upgrade Maintenance",
+    "content": "Campus Wi-Fi and computer lab systems will undergo maintenance this Saturday from 2:00 AM to 6:00 AM. Some services may be temporarily unavailable during this time. The library's computer center will remain open with limited capacity.",
+    "priority": "medium",
+    "date": "2024-01-30T13:45:00Z",
+    "read": true,
+    "author": "IT Services",
+    "category": "technology"
+  }
+]

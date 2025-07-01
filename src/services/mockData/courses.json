@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "code": "CS 401",
+    "name": "Software Engineering",
+    "credits": 3,
+    "instructor": "Dr. Anderson",
+    "schedule": "MWF 10:00 AM - 11:00 AM",
+    "room": "Engineering Building 205",
+    "enrolled": 28,
+    "capacity": 30,
+    "semester": "Fall 2024",
+    "description": "Introduction to software engineering principles and practices"
+  },
+  {
+    "Id": 2,
+    "code": "MATH 301",
+    "name": "Calculus III",
+    "credits": 4,
+    "instructor": "Prof. Williams",
+    "schedule": "TTh 2:00 PM - 3:30 PM",
+    "room": "Mathematics Building 101",
+    "enrolled": 25,
+    "capacity": 35,
+    "semester": "Fall 2024",
+    "description": "Multivariable calculus and vector analysis"
+  },
+  {
+    "Id": 3,
+    "code": "ENG 201",
+    "name": "Technical Writing",
+    "credits": 2,
+    "instructor": "Dr. Brown",
+    "schedule": "MW 3:00 PM - 4:00 PM",
+    "room": "Liberal Arts 302",
+    "enrolled": 22,
+    "capacity": 25,
+    "semester": "Fall 2024",
+    "description": "Professional communication and technical documentation"
+  },
+  {
+    "Id": 4,
+    "code": "CS 350",
+    "name": "Database Systems",
+    "credits": 3,
+    "instructor": "Prof. Davis",
+    "schedule": "TTh 10:00 AM - 11:30 AM",
+    "room": "Computer Science 110",
+    "enrolled": 32,
+    "capacity": 35,
+    "semester": "Fall 2024",
+    "description": "Database design, SQL, and database management systems"
+  },
+  {
+    "Id": 5,
+    "code": "PHYS 202",
+    "name": "Physics II",
+    "credits": 4,
+    "instructor": "Dr. Wilson",
+    "schedule": "MWF 9:00 AM - 10:00 AM",
+    "room": "Physics Building 150",
+    "enrolled": 18,
+    "capacity": 30,
+    "semester": "Fall 2024",
+    "description": "Electricity, magnetism, and electromagnetic waves"
+  }
+]

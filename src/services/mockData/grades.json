@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "courseCode": "CS 301",
+    "courseName": "Data Structures",
+    "semester": "Spring 2024",
+    "grade": "A",
+    "credits": 3,
+    "points": 4.0
+  },
+  {
+    "Id": 2,
+    "courseCode": "MATH 251",
+    "courseName": "Calculus II",
+    "semester": "Spring 2024",
+    "grade": "A-",
+    "credits": 4,
+    "points": 3.7
+  },
+  {
+    "Id": 3,
+    "courseCode": "ENG 101",
+    "courseName": "English Composition",
+    "semester": "Spring 2024",
+    "grade": "B+",
+    "credits": 3,
+    "points": 3.3
+  },
+  {
+    "Id": 4,
+    "courseCode": "CS 201",
+    "courseName": "Programming Fundamentals",
+    "semester": "Fall 2023",
+    "grade": "A",
+    "credits": 4,
+    "points": 4.0
+  },
+  {
+    "Id": 5,
+    "courseCode": "MATH 150",
+    "courseName": "Calculus I",
+    "semester": "Fall 2023",
+    "grade": "A-",
+    "credits": 4,
+    "points": 3.7
+  },
+  {
+    "Id": 6,
+    "courseCode": "PHYS 101",
+    "courseName": "Physics I",
+    "semester": "Fall 2023",
+    "grade": "B",
+    "credits": 4,
+    "points": 3.0
+  },
+  {
+    "Id": 7,
+    "courseCode": "HIST 101",
+    "courseName": "World History",
+    "semester": "Fall 2023",
+    "grade": "B+",
+    "credits": 3,
+    "points": 3.3
+  },
+  {
+    "Id": 8,
+    "courseCode": "CS 101",
+    "courseName": "Introduction to Computing",
+    "semester": "Spring 2023",
+    "grade": "A",
+    "credits": 3,
+    "points": 4.0
+  },
+  {
+    "Id": 9,
+    "courseCode": "MATH 101",
+    "courseName": "College Algebra",
+    "semester": "Spring 2023",
+    "grade": "A-",
+    "credits": 3,
+    "points": 3.7
+  },
+  {
+    "Id": 10,
+    "courseCode": "ENG 100",
+    "courseName": "Writing Fundamentals",
+    "semester": "Spring 2023",
+    "grade": "B+",
+    "credits": 2,
+    "points": 3.3
+  }
+]
