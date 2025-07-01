@@ -41,19 +41,18 @@ const Grades = () => {
     return totalCredits > 0 ? totalPoints / totalCredits : 0
   }
 
-  const getGradeDistribution = (gradesList) => {
+const getGradeDistribution = (gradesList) => {
     const distribution = { 'A': 0, 'B': 0, 'C': 0, 'D': 0, 'F': 0 }
     
     gradesList.forEach(grade => {
       const letter = grade.grade.charAt(0)
-      if (distribution.hasOwnProperty(letter)) {
+      if (Object.hasOwn(distribution, letter)) {
         distribution[letter]++
       }
     })
     
     return distribution
   }
-
   const filteredGrades = selectedSemester === 'all' 
     ? grades 
     : grades.filter(grade => grade.semester === selectedSemester)
