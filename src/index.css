@@ -66,14 +66,15 @@
     @apply border-l-4 border-accent-500 bg-orange-50;
   }
   
-  .grade-f {
+.grade-f {
     @apply border-l-4 border-error bg-red-50;
   }
-  
+
+  /* Sidebar Styles */
   .sidebar-item {
-    @apply flex items-center px-4 py-3 text-gray-700 hover:bg-primary-50 hover:text-primary-700 rounded-lg transition-all duration-200 cursor-pointer group;
+    @apply flex items-center px-4 py-3 text-gray-700 hover:bg-primary-50 hover:text-primary-700 rounded-lg transition-all duration-200 cursor-pointer;
   }
-  
+
   .sidebar-item.active {
     @apply bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-lg;
   }
